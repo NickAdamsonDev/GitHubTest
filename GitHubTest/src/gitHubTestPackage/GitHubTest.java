@@ -6,6 +6,7 @@ public class GitHubTest {
 		
 	System.out.println("Github Test");
 	
+	System.out.println("GitTestTest");
 
 	}
 
